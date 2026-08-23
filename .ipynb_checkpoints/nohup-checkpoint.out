@@ -1,0 +1,2 @@
+/usr/local/SageMath/src/bin/sage-preparse: File 'server_compute_template.sage' is missing
+/usr/local/SageMath/local/bin/python3: can't open file 'server_compute_template.sage.py': [Errno 2] No such file or directory
